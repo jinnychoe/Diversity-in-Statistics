@@ -1,10 +1,10 @@
  
-Diversity in Statistics:
+Diversity in Statistics
 ========================
 The script is intended for use on Linux systems and can assist in various statistical analyses related to diversity.
 
 
-About:
+About
 ----------
 Diversity analysis is a critical component in various fields of the sciences. 
 The script aims to simplify diversity analysis tasks by providing tools to calculate diversity statistics, visualize data, and perform K-Means clustering.
@@ -25,7 +25,7 @@ The Elbow Method determines the optimal number of clusters (k) for K-Means clust
 K-Means cluster analysis is performed on the three selected animals to visualize clusters. Clusters and centroids are plotted and saved as `{animal}_k.pdf`. 
 
 
-Execution in Ubuntu/Linux:
+Execution in Ubuntu/Linux
 --------------------------
 1. Replace `{user}` with your actual username and verify paths based on your directory structure.
 
